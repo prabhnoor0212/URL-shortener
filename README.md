@@ -2,7 +2,7 @@
 
 <a href="https://github.com/rishz/URL-Shortener/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-red.svg" alt="license"/></a>
 
-A URL-Shortener created using Node-JS and synced with Firebase Database.
+A URL-Shortener created using Node-JS and synced with Firebase Database. (Colaborated with [Rishabh](https://github.com/rishz))
 
 
 ## Demo
@@ -46,7 +46,7 @@ Any kind of contributions are welcome.
 ```Groovy
 MIT License
 
-Copyright (c) 2017 Rishabh Shukla
+Copyright (c) 2017 Prabhnoor Singh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
